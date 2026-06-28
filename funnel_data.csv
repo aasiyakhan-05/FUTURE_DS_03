@@ -1,0 +1,101 @@
+visitor_id,visit_date,marketing_channel,source,funnel_stage,stage_date,conversion_value,days_in_stage,campaign_name,device_type,location,visitor_segment
+V001,2026-01-01,Email,Newsletter,Customer,2026-01-15,2999,14,Q1 Launch,Desktop,North,Enterprise
+V002,2026-01-02,Organic,Google Search,Qualified Lead,2026-01-05,0,3,Organic Search,Mobile,South,SMB
+V003,2026-01-03,Paid Ads,Google Ads,Visitor,2026-01-03,0,0,Winter Campaign,Desktop,East,SMB
+V004,2026-01-04,Social,Facebook,Lead,2026-01-08,0,4,Social Awareness,Mobile,West,SMB
+V005,2026-01-05,Referral,Partner,Customer,2026-01-20,4999,15,Partner Program,Desktop,North,Enterprise
+V006,2026-01-06,Email,Webinar,Opportunity,2026-01-12,0,6,Webinar Followup,Desktop,South,Mid-Market
+V007,2026-01-07,Organic,Google Search,Customer,2026-01-25,1999,18,Organic Search,Desktop,East,SMB
+V008,2026-01-08,Paid Ads,LinkedIn Ads,Qualified Lead,2026-01-11,0,3,LinkedIn Campaign,Desktop,West,Enterprise
+V009,2026-01-09,Social,Instagram,Visitor,2026-01-09,0,0,Instagram Ads,Mobile,North,SMB
+V010,2026-01-10,Email,Newsletter,Lead,2026-01-14,0,4,Q1 Launch,Desktop,South,SMB
+V011,2026-01-11,Referral,Partner,Lead,2026-01-16,0,5,Partner Program,Mobile,East,SMB
+V012,2026-01-12,Organic,Google Search,Customer,2026-01-28,2999,16,Organic Search,Mobile,West,Mid-Market
+V013,2026-01-13,Paid Ads,Google Ads,Opportunity,2026-01-20,0,7,Winter Campaign,Desktop,North,SMB
+V014,2026-01-14,Social,LinkedIn,Qualified Lead,2026-01-18,0,4,LinkedIn Organic,Desktop,South,Enterprise
+V015,2026-01-15,Email,Promotional,Customer,2026-01-22,1999,7,January Promo,Mobile,East,SMB
+V016,2026-01-16,Organic,Blog,Lead,2026-01-21,0,5,Blog Traffic,Desktop,West,SMB
+V017,2026-01-17,Paid Ads,Facebook Ads,Visitor,2026-01-17,0,0,Winter Campaign,Mobile,North,SMB
+V018,2026-01-18,Social,Twitter,Lead,2026-01-23,0,5,Twitter Campaign,Desktop,South,SMB
+V019,2026-01-19,Referral,Word of Mouth,Customer,2026-02-05,3999,17,Referral,Desktop,East,Enterprise
+V020,2026-01-20,Email,Newsletter,Opportunity,2026-01-28,0,8,Q1 Launch,Desktop,West,Mid-Market
+V021,2026-01-21,Organic,Google Search,Lead,2026-01-26,0,5,Organic Search,Mobile,North,SMB
+V022,2026-01-22,Paid Ads,Google Ads,Customer,2026-02-08,2999,17,Winter Campaign,Desktop,South,SMB
+V023,2026-01-23,Social,Facebook,Qualified Lead,2026-01-27,0,4,Social Awareness,Mobile,East,SMB
+V024,2026-01-24,Email,Webinar,Lead,2026-01-29,0,5,Webinar Followup,Desktop,West,Mid-Market
+V025,2026-01-25,Referral,Partner,Opportunity,2026-02-02,0,8,Partner Program,Desktop,North,Enterprise
+V026,2026-01-26,Organic,Blog,Customer,2026-02-10,1999,15,Blog Traffic,Mobile,South,SMB
+V027,2026-01-27,Paid Ads,LinkedIn Ads,Lead,2026-02-03,0,7,LinkedIn Campaign,Desktop,East,SMB
+V028,2026-01-28,Social,Instagram,Visitor,2026-01-28,0,0,Instagram Ads,Mobile,West,SMB
+V029,2026-01-29,Email,Newsletter,Customer,2026-02-12,2999,14,Q1 Launch,Desktop,North,Mid-Market
+V030,2026-01-30,Organic,Google Search,Opportunity,2026-02-06,0,7,Organic Search,Mobile,South,SMB
+V031,2026-02-01,Referral,Partner,Customer,2026-02-18,3999,17,Partner Program,Desktop,East,Enterprise
+V032,2026-02-02,Email,Promotional,Lead,2026-02-08,0,6,February Promo,Mobile,West,SMB
+V033,2026-02-03,Paid Ads,Google Ads,Qualified Lead,2026-02-07,0,4,Winter Campaign,Desktop,North,SMB
+V034,2026-02-04,Social,LinkedIn,Lead,2026-02-10,0,6,LinkedIn Organic,Desktop,South,SMB
+V035,2026-02-05,Organic,Google Search,Customer,2026-02-22,2999,17,Organic Search,Desktop,East,Mid-Market
+V036,2026-02-06,Email,Webinar,Opportunity,2026-02-14,0,8,Webinar Followup,Mobile,West,SMB
+V037,2026-02-07,Paid Ads,Facebook Ads,Lead,2026-02-14,0,7,Winter Campaign,Desktop,North,SMB
+V038,2026-02-08,Social,Twitter,Visitor,2026-02-08,0,0,Twitter Campaign,Mobile,South,SMB
+V039,2026-02-09,Referral,Word of Mouth,Qualified Lead,2026-02-13,0,4,Referral,Desktop,East,Enterprise
+V040,2026-02-10,Organic,Blog,Lead,2026-02-17,0,7,Blog Traffic,Desktop,West,SMB
+V041,2026-02-11,Email,Newsletter,Customer,2026-02-26,1999,15,Q1 Launch,Mobile,North,SMB
+V042,2026-02-12,Paid Ads,Google Ads,Opportunity,2026-02-21,0,9,Winter Campaign,Desktop,South,Mid-Market
+V043,2026-02-13,Social,Facebook,Lead,2026-02-19,0,6,Social Awareness,Mobile,East,SMB
+V044,2026-02-14,Email,Promotional,Customer,2026-02-28,2999,14,Valentine Campaign,Desktop,West,SMB
+V045,2026-02-15,Organic,Google Search,Visitor,2026-02-15,0,0,Organic Search,Mobile,North,SMB
+V046,2026-02-16,Referral,Partner,Customer,2026-03-05,4999,17,Partner Program,Desktop,South,Enterprise
+V047,2026-02-17,Paid Ads,LinkedIn Ads,Lead,2026-02-24,0,7,LinkedIn Campaign,Desktop,East,SMB
+V048,2026-02-18,Social,Instagram,Qualified Lead,2026-02-22,0,4,Instagram Ads,Mobile,West,SMB
+V049,2026-02-19,Email,Webinar,Opportunity,2026-02-27,0,8,Webinar Followup,Desktop,North,Mid-Market
+V050,2026-02-20,Organic,Blog,Customer,2026-03-08,1999,16,Blog Traffic,Mobile,South,SMB
+V051,2026-02-21,Email,Newsletter,Lead,2026-02-27,0,6,Q1 Launch,Desktop,East,SMB
+V052,2026-02-22,Paid Ads,Google Ads,Customer,2026-03-10,2999,16,Winter Campaign,Mobile,West,SMB
+V053,2026-02-23,Social,LinkedIn,Opportunity,2026-03-02,0,7,LinkedIn Organic,Desktop,North,SMB
+V054,2026-02-24,Referral,Word of Mouth,Lead,2026-03-02,0,6,Referral,Desktop,South,SMB
+V055,2026-02-25,Organic,Google Search,Customer,2026-03-12,3999,15,Organic Search,Mobile,East,Enterprise
+V056,2026-02-26,Email,Promotional,Qualified Lead,2026-03-02,0,4,February Promo,Desktop,West,SMB
+V057,2026-02-27,Paid Ads,Facebook Ads,Lead,2026-03-05,0,6,Winter Campaign,Mobile,North,SMB
+V058,2026-02-28,Social,Twitter,Visitor,2026-02-28,0,0,Twitter Campaign,Desktop,South,SMB
+V059,2026-03-01,Email,Webinar,Customer,2026-03-16,2999,15,Webinar Followup,Desktop,East,Mid-Market
+V060,2026-03-02,Organic,Google Search,Opportunity,2026-03-10,0,8,Organic Search,Mobile,West,SMB
+V061,2026-03-03,Referral,Partner,Customer,2026-03-20,3999,17,Partner Program,Desktop,North,Enterprise
+V062,2026-03-04,Paid Ads,Google Ads,Lead,2026-03-11,0,7,Spring Campaign,Mobile,South,SMB
+V063,2026-03-05,Social,Facebook,Qualified Lead,2026-03-09,0,4,Social Awareness,Desktop,East,SMB
+V064,2026-03-06,Email,Newsletter,Lead,2026-03-12,0,6,Q1 Launch,Desktop,West,SMB
+V065,2026-03-07,Organic,Blog,Customer,2026-03-24,1999,17,Blog Traffic,Mobile,North,SMB
+V066,2026-03-08,Paid Ads,LinkedIn Ads,Opportunity,2026-03-16,0,8,LinkedIn Campaign,Desktop,South,Mid-Market
+V067,2026-03-09,Social,Instagram,Visitor,2026-03-09,0,0,Instagram Ads,Mobile,East,SMB
+V068,2026-03-10,Email,Promotional,Customer,2026-03-25,2999,15,March Promo,Desktop,West,SMB
+V069,2026-03-11,Referral,Word of Mouth,Lead,2026-03-18,0,7,Referral,Mobile,North,SMB
+V070,2026-03-12,Organic,Google Search,Customer,2026-03-28,2999,16,Organic Search,Desktop,South,SMB
+V071,2026-03-13,Paid Ads,Google Ads,Qualified Lead,2026-03-17,0,4,Spring Campaign,Mobile,East,SMB
+V072,2026-03-14,Social,LinkedIn,Opportunity,2026-03-23,0,9,LinkedIn Organic,Desktop,West,Mid-Market
+V073,2026-03-15,Email,Webinar,Customer,2026-03-30,3999,15,Webinar Followup,Desktop,North,Enterprise
+V074,2026-03-16,Organic,Google Search,Lead,2026-03-23,0,7,Organic Search,Mobile,South,SMB
+V075,2026-03-17,Paid Ads,Facebook Ads,Visitor,2026-03-17,0,0,Spring Campaign,Desktop,East,SMB
+V076,2026-03-18,Social,Twitter,Lead,2026-03-25,0,7,Twitter Campaign,Mobile,West,SMB
+V077,2026-03-19,Email,Newsletter,Customer,2026-04-02,1999,14,Q1 Launch,Desktop,North,SMB
+V078,2026-03-20,Referral,Partner,Opportunity,2026-03-28,0,8,Partner Program,Desktop,South,Enterprise
+V079,2026-03-21,Organic,Blog,Customer,2026-04-08,2999,18,Blog Traffic,Mobile,East,Mid-Market
+V080,2026-03-22,Paid Ads,Google Ads,Lead,2026-03-29,0,7,Spring Campaign,Desktop,West,SMB
+V081,2026-03-23,Social,Facebook,Qualified Lead,2026-03-27,0,4,Social Awareness,Mobile,North,SMB
+V082,2026-03-24,Email,Promotional,Lead,2026-03-31,0,7,March Promo,Desktop,South,SMB
+V083,2026-03-25,Organic,Google Search,Opportunity,2026-04-02,0,8,Organic Search,Mobile,East,SMB
+V084,2026-03-26,Paid Ads,LinkedIn Ads,Lead,2026-04-02,0,7,LinkedIn Campaign,Desktop,West,SMB
+V085,2026-03-27,Social,Instagram,Visitor,2026-03-27,0,0,Instagram Ads,Mobile,North,SMB
+V086,2026-03-28,Email,Webinar,Customer,2026-04-12,2999,15,Webinar Followup,Desktop,South,Mid-Market
+V087,2026-03-29,Referral,Word of Mouth,Customer,2026-04-15,3999,17,Referral,Mobile,East,Enterprise
+V088,2026-03-30,Organic,Google Search,Lead,2026-04-07,0,8,Organic Search,Desktop,West,SMB
+V089,2026-03-31,Paid Ads,Google Ads,Customer,2026-04-16,2999,16,Spring Campaign,Mobile,North,SMB
+V090,2026-04-01,Social,LinkedIn,Qualified Lead,2026-04-05,0,4,LinkedIn Organic,Desktop,South,SMB
+V091,2026-04-02,Email,Newsletter,Opportunity,2026-04-10,0,8,Q2 Launch,Desktop,East,Mid-Market
+V092,2026-04-03,Paid Ads,Facebook Ads,Lead,2026-04-10,0,7,Spring Campaign,Mobile,West,SMB
+V093,2026-04-04,Social,Twitter,Visitor,2026-04-04,0,0,Twitter Campaign,Desktop,North,SMB
+V094,2026-04-05,Referral,Partner,Customer,2026-04-22,4999,17,Partner Program,Mobile,South,Enterprise
+V095,2026-04-06,Organic,Blog,Customer,2026-04-23,1999,17,Blog Traffic,Desktop,East,SMB
+V096,2026-04-07,Email,Promotional,Lead,2026-04-14,0,7,April Promo,Desktop,West,SMB
+V097,2026-04-08,Paid Ads,Google Ads,Qualified Lead,2026-04-12,0,4,Spring Campaign,Mobile,North,SMB
+V098,2026-04-09,Social,Facebook,Opportunity,2026-04-18,0,9,Social Awareness,Desktop,South,Mid-Market
+V099,2026-04-10,Organic,Google Search,Customer,2026-04-27,2999,17,Organic Search,Mobile,East,SMB
+V100,2026-04-11,Email,Webinar,Lead,2026-04-18,0,7,Webinar Followup,Desktop,West,SMB
